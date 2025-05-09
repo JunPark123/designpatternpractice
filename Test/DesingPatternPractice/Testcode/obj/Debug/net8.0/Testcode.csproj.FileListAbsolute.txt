@@ -1,0 +1,14 @@
+C:\Users\user\source\Test\DesingPatternPractice\Testcode\bin\Debug\net8.0\Testcode.exe
+C:\Users\user\source\Test\DesingPatternPractice\Testcode\bin\Debug\net8.0\Testcode.deps.json
+C:\Users\user\source\Test\DesingPatternPractice\Testcode\bin\Debug\net8.0\Testcode.runtimeconfig.json
+C:\Users\user\source\Test\DesingPatternPractice\Testcode\bin\Debug\net8.0\Testcode.dll
+C:\Users\user\source\Test\DesingPatternPractice\Testcode\bin\Debug\net8.0\Testcode.pdb
+C:\Users\user\source\Test\DesingPatternPractice\Testcode\obj\Debug\net8.0\Testcode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\Test\DesingPatternPractice\Testcode\obj\Debug\net8.0\Testcode.AssemblyInfoInputs.cache
+C:\Users\user\source\Test\DesingPatternPractice\Testcode\obj\Debug\net8.0\Testcode.AssemblyInfo.cs
+C:\Users\user\source\Test\DesingPatternPractice\Testcode\obj\Debug\net8.0\Testcode.csproj.CoreCompileInputs.cache
+C:\Users\user\source\Test\DesingPatternPractice\Testcode\obj\Debug\net8.0\Testcode.dll
+C:\Users\user\source\Test\DesingPatternPractice\Testcode\obj\Debug\net8.0\refint\Testcode.dll
+C:\Users\user\source\Test\DesingPatternPractice\Testcode\obj\Debug\net8.0\Testcode.pdb
+C:\Users\user\source\Test\DesingPatternPractice\Testcode\obj\Debug\net8.0\Testcode.genruntimeconfig.cache
+C:\Users\user\source\Test\DesingPatternPractice\Testcode\obj\Debug\net8.0\ref\Testcode.dll

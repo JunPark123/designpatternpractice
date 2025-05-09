@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nw3KSwiuOC8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\Test\\DesingPatternPractice\\StrategyAndDI\\StrategyAndDI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.2\\microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.2\\microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

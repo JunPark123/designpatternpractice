@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\Test\\DesingPatternPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A436595-C82D-438D-B252-6B16C7518B38}|StateQueuePattern\\StateQueuePattern.csproj|c:\\users\\user\\source\\test\\desingpatternpractice\\statequeuepattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A436595-C82D-438D-B252-6B16C7518B38}|StateQueuePattern\\StateQueuePattern.csproj|solutionrelative:statequeuepattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89B72392-2B9C-46DF-B54C-9D93689C8019}|Testcode\\Testcode.csproj|c:\\users\\user\\source\\test\\desingpatternpractice\\testcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89B72392-2B9C-46DF-B54C-9D93689C8019}|Testcode\\Testcode.csproj|solutionrelative:testcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E615492C-8DED-4B60-ADB9-AB1C1D600F7D}|Singleton\\Singleton.csproj|c:\\users\\user\\source\\test\\desingpatternpractice\\singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E615492C-8DED-4B60-ADB9-AB1C1D600F7D}|Singleton\\Singleton.csproj|solutionrelative:singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F704F314-0A80-49F3-A698-E13B2D6C863A}|DesingPatternPractice\\DesingPatternPractice.csproj|c:\\users\\user\\source\\test\\desingpatternpractice\\desingpatternpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F704F314-0A80-49F3-A698-E13B2D6C863A}|DesingPatternPractice\\DesingPatternPractice.csproj|solutionrelative:desingpatternpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356BC8E4-AA76-4A27-9CC2-68B5E7004DE4}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\user\\source\\Test\\DesingPatternPractice\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356BC8E4-AA76-4A27-9CC2-68B5E7004DE4}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82A5D6CE-F7BF-4344-A5F3-E8BED0633D85}|StrategyAndDI\\StrategyAndDI.csproj|c:\\users\\user\\source\\test\\desingpatternpractice\\strategyanddi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82A5D6CE-F7BF-4344-A5F3-E8BED0633D85}|StrategyAndDI\\StrategyAndDI.csproj|solutionrelative:strategyanddi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356BC8E4-AA76-4A27-9CC2-68B5E7004DE4}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\user\\source\\Test\\DesingPatternPractice\\windowsformsapp1\\properties\\licenses.licx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{356BC8E4-AA76-4A27-9CC2-68B5E7004DE4}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\properties\\licenses.licx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341AC44B-F310-4876-8A12-828F6C2DCDDE}|Factory\\Factory.csproj|c:\\users\\user\\source\\test\\desingpatternpractice\\factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341AC44B-F310-4876-8A12-828F6C2DCDDE}|Factory\\Factory.csproj|solutionrelative:factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10EDB3AE-9803-4217-B06E-347352FA562E}|MVC\\MVC.csproj|c:\\users\\user\\source\\test\\desingpatternpractice\\mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10EDB3AE-9803-4217-B06E-347352FA562E}|MVC\\MVC.csproj|solutionrelative:mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356BC8E4-AA76-4A27-9CC2-68B5E7004DE4}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\user\\source\\Test\\DesingPatternPractice\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{356BC8E4-AA76-4A27-9CC2-68B5E7004DE4}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\Test\\DesingPatternPractice\\StateQueuePattern\\Program.cs",
+              "RelativeDocumentMoniker": "StateQueuePattern\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\Test\\DesingPatternPractice\\StateQueuePattern\\Program.cs*",
+              "RelativeToolTip": "StateQueuePattern\\Program.cs*",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAuwNEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T07:23:43.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\Test\\DesingPatternPractice\\Testcode\\Program.cs",
+              "RelativeDocumentMoniker": "Testcode\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\Test\\DesingPatternPractice\\Testcode\\Program.cs",
+              "RelativeToolTip": "Testcode\\Program.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAkwL4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T06:21:04.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\Test\\DesingPatternPractice\\Factory\\Program.cs",
+              "RelativeDocumentMoniker": "Factory\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\Test\\DesingPatternPractice\\Factory\\Program.cs",
+              "RelativeToolTip": "Factory\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T00:20:12.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\Test\\DesingPatternPractice\\MVC\\Program.cs",
+              "RelativeDocumentMoniker": "MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\Test\\DesingPatternPractice\\MVC\\Program.cs",
+              "RelativeToolTip": "MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T00:20:08.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "licenses.licx",
+              "DocumentMoniker": "C:\\Users\\user\\source\\Test\\DesingPatternPractice\\WindowsFormsApp1\\Properties\\licenses.licx",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Properties\\licenses.licx",
+              "ToolTip": "C:\\Users\\user\\source\\Test\\DesingPatternPractice\\WindowsFormsApp1\\Properties\\licenses.licx",
+              "RelativeToolTip": "WindowsFormsApp1\\Properties\\licenses.licx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-12T08:18:24.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\Test\\DesingPatternPractice\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\Test\\DesingPatternPractice\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T07:27:08.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\Test\\DesingPatternPractice\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\Test\\DesingPatternPractice\\WindowsFormsApp1\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T07:00:15.204Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\Test\\DesingPatternPractice\\DesingPatternPractice\\Program.cs",
+              "RelativeDocumentMoniker": "DesingPatternPractice\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\Test\\DesingPatternPractice\\DesingPatternPractice\\Program.cs",
+              "RelativeToolTip": "DesingPatternPractice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T03:26:09.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\Test\\DesingPatternPractice\\Singleton\\Program.cs",
+              "RelativeDocumentMoniker": "Singleton\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\Test\\DesingPatternPractice\\Singleton\\Program.cs",
+              "RelativeToolTip": "Singleton\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T03:26:01.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\Test\\DesingPatternPractice\\StrategyAndDI\\Program.cs",
+              "RelativeDocumentMoniker": "StrategyAndDI\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\Test\\DesingPatternPractice\\StrategyAndDI\\Program.cs",
+              "RelativeToolTip": "StrategyAndDI\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAnwEkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T03:22:49.733Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
