@@ -1,4 +1,6 @@
-﻿namespace 헤드퍼스트_3장_데코레이터패턴
+﻿#pragma warning disable
+
+namespace 헤드퍼스트_3장_데코레이터패턴
 {
     public abstract class Baverage
     {
@@ -108,6 +110,12 @@
             baverage2 = new Whip(baverage2);
 
             Console.WriteLine(baverage2.GetDescription() + " $" + baverage2.Cost().ToString("F4"));
+
+            Baverage baverage3 = new HouseBlend();
+            baverage3 = new Soy(baverage3);
+            baverage3 = new Mocha(baverage3);
+            baverage3 = new Whip(baverage3);
+            Console.WriteLine(baverage3.GetDescription() + " $" + baverage3.Cost().ToString("F4"));
 
         }
     }
