@@ -23,8 +23,11 @@
     {
         protected override Pizza CreatePizza(string type)
         {
+            Pizza pizza = null;
+            PizzaIngredientFactory ingredientFactory = new NyPizzaIngredientFactory();
+
             if (type == "치즈")
-                return new NYCheesePizza();
+                return new NYCheesePizza(ingredientFactory);
             else if (type == "페페로니")
                 return new NyPeperonyPizza();
             else return null;
@@ -45,20 +48,19 @@
 
 
 
-    public class Pizza
+    public abstract class Pizza
     {
         protected string 도우 = "";
         protected string 이름 = "";
         protected string 소스 = "";
         protected List<string> 토핑 = new();
-        public void Prepare()
-        {
-            Console.WriteLine(
-                $"준비 중 {이름}" +
-                $"도우는 {도우}" +
-                $"소스는 {소스}" +
-                $"토핑은 {string.Join(",", 토핑)}");
-        }
+
+
+        protected Dough 돌우 = new();
+        protected Source 솔스 = new();
+        protected Cheese 치즈 = new();
+        protected Veggies[] 톨핑스;
+        public abstract void Prepare();
 
         public virtual void Cut()
         {
@@ -83,13 +85,22 @@
 
     public class NYCheesePizza : Pizza
     {
-        public NYCheesePizza()
+        PizzaIngredientFactory IngredientFactory;
+
+        public NYCheesePizza(PizzaIngredientFactory ingredientFactory)
         {
-            이름 = "뉴욕스타일 치즈피자";
-            도우 = "씬 도우";
-            소스 = "마리나라 소스";
-            토핑.Add("모짜렐라");
-            토핑.Add("올리브");
+            this.IngredientFactory = ingredientFactory;
+
+
+        }
+
+        public override void Prepare()
+        {
+            Console.WriteLine("준비중");
+            돌우 = IngredientFactory.CreateDough();
+            솔스 = IngredientFactory.CreateSource();
+            톨핑스 = IngredientFactory.CreateVeggies();
+            치즈 = IngredientFactory.CreateCheese();
         }
     }
     public class KrCheesePizza : Pizza

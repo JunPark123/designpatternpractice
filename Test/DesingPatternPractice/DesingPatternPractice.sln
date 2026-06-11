@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "헤드퍼스트_3장_데코
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "헤드퍼스트_4장_팩토리패턴", "헤드퍼스트_4장_팩토리패턴\헤드퍼스트_4장_팩토리패턴.csproj", "{E85C82BF-7D9D-44F0-BF45-4772AB92EBAE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "헤드퍼스트_5장_싱글턴패턴", "헤드퍼스트_5장_싱글턴패턴\헤드퍼스트_5장_싱글턴패턴.csproj", "{39324BCB-EBD0-4BE1-8495-D1E4E157430E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "헤드퍼스트_6장_커맨드패턴", "헤드퍼스트_6장_커맨드패턴\헤드퍼스트_6장_커맨드패턴.csproj", "{C6443C85-A52B-4A33-AC9B-F302909DEAFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{E85C82BF-7D9D-44F0-BF45-4772AB92EBAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E85C82BF-7D9D-44F0-BF45-4772AB92EBAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E85C82BF-7D9D-44F0-BF45-4772AB92EBAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39324BCB-EBD0-4BE1-8495-D1E4E157430E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39324BCB-EBD0-4BE1-8495-D1E4E157430E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39324BCB-EBD0-4BE1-8495-D1E4E157430E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39324BCB-EBD0-4BE1-8495-D1E4E157430E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6443C85-A52B-4A33-AC9B-F302909DEAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6443C85-A52B-4A33-AC9B-F302909DEAFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6443C85-A52B-4A33-AC9B-F302909DEAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6443C85-A52B-4A33-AC9B-F302909DEAFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
