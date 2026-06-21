@@ -14,11 +14,7 @@ namespace 헤드퍼스트_3장_데코레이터패턴
         public abstract double Cost();
     }
 
-    public abstract class CondimentDecorator : Baverage
-    {
-        protected Baverage _baverage;
-        public abstract override string GetDescription();
-    }
+    
 
     public class Espresso : Baverage
     {
@@ -45,7 +41,11 @@ namespace 헤드퍼스트_3장_데코레이터패턴
             return .89;
         }
     }
-
+    public abstract class CondimentDecorator : Baverage
+    {
+        protected Baverage _baverage;
+        public abstract override string GetDescription();
+    }
     public class Mocha : CondimentDecorator
     {
         public Mocha(Baverage baverage)
